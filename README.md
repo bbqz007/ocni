@@ -7,7 +7,7 @@ jni ==> oc (ni)
 ### overview
 * written in 2016 in a cross-platfrom sdk project.
 * assume
-  * a cpp sdk for android java and ios oc interface.
+  * a cpp implement sdk for android java and ios oc interface (api).
   * cpp code interact with the android java and ios oc layer.
   * there are adapter layer codes interacting with the android java layer, using jni apis.
   * now also a copy of similar codes interacting with ios oc layer is needed.
